@@ -1,1 +1,2 @@
-import Raj
+import os
+os system ('RAJ')
